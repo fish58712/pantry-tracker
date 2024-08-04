@@ -1,2 +1,8 @@
-node_modules
-node_modules
+# Node modules directory
+node_modules/
+
+# Environment variable file
+.env.local
+
+# Firebase configuration file
+firebase.js
