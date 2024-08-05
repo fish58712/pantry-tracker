@@ -1,10 +1,7 @@
-// next.config.js
-
 const nextConfig = {
     experimental: {
-      appDir: true, // Enables the experimental app directory
+      appDir: true, // Ensure this is true if using the experimental app directory
     },
-    // Add any other configurations here
   }
   
   module.exports = nextConfig
