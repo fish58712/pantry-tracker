@@ -7,5 +7,3 @@ node_modules/
 # Firebase configuration file
 firebase.js
 
-
-.DS_Store
